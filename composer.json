@@ -17,5 +17,7 @@
             "email": "contato@appmax.com.br"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
